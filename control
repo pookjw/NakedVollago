@@ -1,0 +1,9 @@
+Package: com.pookjw.nakedvollago
+Name: NakedVollago
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Make Vollago app blurred background
+Maintainer: Jinwoo Kim
+Author: Jinwoo Kim
+Section: Utilities
+Depends: firmware (>= 14.0), org.coolstar.libhooker
